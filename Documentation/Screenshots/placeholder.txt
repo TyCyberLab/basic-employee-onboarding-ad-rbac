@@ -1,0 +1,1 @@
+Screenshots folder for Active Directory domain setup, OU structure, users, group memberships, and NMG-0047 incident evidence.
