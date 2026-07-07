@@ -1,1 +1,0 @@
-Documentation folder for domain setup notes, OU and security group design, user documentation, and RBAC structure.
